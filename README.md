@@ -1,6 +1,6 @@
-# LLM-for-suicide-research
+# LLM-for-Mental-Health-Research
 
-A curated paper list of suicide research using large language models (LLMs) and multimodal large language models (MLLMs).
+A curated paper list of mental health research using large language models (LLMs) and multimodal large language models (MLLMs).
 
 ## Methods for Suicide Risk Assessment and Detection
 
