@@ -11,12 +11,21 @@ LLMs can serve as knowledge providers, expert systems, and data generators for s
 - ![2023.06](https://img.shields.io/badge/2023.06-blue) [Example Paper Title 1](https://example.com/paper1) [[paper]](https://example.com/paper1.pdf)
 - ![2023.09](https://img.shields.io/badge/2023.09-blue) [Example Paper Title 2](https://example.com/paper2) [[paper]](https://example.com/paper2.pdf) -->
 
-### As a Tool User
+### LLM as an Agent
 
 LLMs as agents with access to external tools like clinical databases, risk assessment frameworks, etc.
 
 - ![2025.04](https://img.shields.io/badge/2025.04-blue) [EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety](https://arxiv.org/pdf/2504.09689) [[code]](https://github.com/1akaman/EmoAgent)
 <!-- - ![2023.10](https://img.shields.io/badge/2023.10-blue) [Example Paper Title 4](https://example.com/paper4) [[paper]](https://example.com/paper4.pdf) -->
+
+
+### Evaluation Metrics
+- [The PHQ‐9: validity of a brief depression severity measure](https://onlinelibrary.wiley.com/doi/pdf/10.1046/j.1525-1497.2001.016009606.x)
+
+- [Measuring delusional ideation: the 21-item Peters et al. Delusions Inventory (PDI)](https://academic.oup.com/schizophreniabulletin/article-abstract/30/4/1005/1930847)
+
+- [Measured using the Positive and Negative Syndrome Scale (PANSS)](https://academic.oup.com/schizophreniabulletin/article/13/2/261/1919795)
+
 
 <!-- ### As a Decision Maker/Explainer
 
