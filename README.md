@@ -15,7 +15,7 @@ LLMs can serve as knowledge providers, expert systems, and data generators for s
 
 LLMs as agents with access to external tools like clinical databases, risk assessment frameworks, etc.
 
-- ![2025.04](https://img.shields.io/badge/2025.04-blue) [EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety](https://arxiv.org/pdf/2504.09689) 
+- ![2025.04](https://img.shields.io/badge/2025.04-blue) [EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety](https://arxiv.org/pdf/2504.09689) [[code]](https://github.com/1akaman/EmoAgent)
 <!-- - ![2023.10](https://img.shields.io/badge/2023.10-blue) [Example Paper Title 4](https://example.com/paper4) [[paper]](https://example.com/paper4.pdf) -->
 
 <!-- ### As a Decision Maker/Explainer
