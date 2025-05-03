@@ -10,9 +10,10 @@ A curated paper list of mental health research using large language models (LLMs
 
 LLMs as agents with access to external tools like clinical databases, risk assessment frameworks, etc.
 
-- ![2024.11](https://img.shields.io/badge/2024.11-blue) ![EMNLP](https://img.shields.io/badge/EMNLP-red) [Can AI Relate: Testing Large Language Model Response for Mental Health Support](https://aclanthology.org/2024.findings-emnlp.120/) 
 
 - ![2025.04](https://img.shields.io/badge/2025.04-blue) [EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety](https://arxiv.org/pdf/2504.09689) [[code]](https://github.com/1akaman/EmoAgent)
+
+- ![2024.11](https://img.shields.io/badge/2024.11-blue) ![EMNLP](https://img.shields.io/badge/EMNLP-red) [Can AI Relate: Testing Large Language Model Response for Mental Health Support](https://aclanthology.org/2024.findings-emnlp.120/) 
 
 
 
