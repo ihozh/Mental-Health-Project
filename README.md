@@ -24,7 +24,7 @@ Language Models](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jts.23082?casa_
 
 ### Empathy
 
-- ![2021](https://img.shields.io/badge/2021-blue) ![EMNLP](https://img.shields.io/badge/EMNLP-red) [A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support](https://par.nsf.gov/servlets/purl/10293300)
+- ![2021.11](https://img.shields.io/badge/2021.11-blue) ![EMNLP](https://img.shields.io/badge/EMNLP-red) [A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support](https://par.nsf.gov/servlets/purl/10293300)
 
 
 
@@ -36,8 +36,9 @@ Language Models](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jts.23082?casa_
 
 - [Measured using the Positive and Negative Syndrome Scale (PANSS)](https://academic.oup.com/schizophreniabulletin/article/13/2/261/1919795)
 
-- Likert Scale:[A technique for the Measurement of Attitudes](https://psycnet.apa.org/record/1933-01885-001)
+- [A technique for the Measurement of Attitudes (Likert Scale)](https://psycnet.apa.org/record/1933-01885-001)
 
+- [Motivational Interviewing: Moving From Why to How with Autonomy Support (MITI)](https://link.springer.com/content/pdf/10.1186/1479-5868-9-19.pdf)
 
 <!-- ### As a Decision Maker/Explainer
 
