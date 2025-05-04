@@ -22,7 +22,9 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 Language Models](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jts.23082?casa_token=GlVb_7RF7kIAAAAA%3AFvnWC12H0qtmmguh3EEl10RcoATL4W_LnUi4nAgdkXO-HC3lCSeljxLHPOmcJfyaxnRnPn3eXxBDdQ)
 
 
+### Empathy
 
+- ![2021](https://img.shields.io/badge/2021-blue) ![EMNLP](https://img.shields.io/badge/EMNLP-red) [A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support](https://par.nsf.gov/servlets/purl/10293300)
 
 
 
@@ -33,6 +35,8 @@ Language Models](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jts.23082?casa_
 - [Measuring delusional ideation: the 21-item Peters et al. Delusions Inventory (PDI)](https://academic.oup.com/schizophreniabulletin/article-abstract/30/4/1005/1930847)
 
 - [Measured using the Positive and Negative Syndrome Scale (PANSS)](https://academic.oup.com/schizophreniabulletin/article/13/2/261/1919795)
+
+- Likert Scale:[A technique for the Measurement of Attitudes](https://psycnet.apa.org/record/1933-01885-001)
 
 
 <!-- ### As a Decision Maker/Explainer
