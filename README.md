@@ -24,7 +24,7 @@ Language Models](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jts.23082?casa_
 
 
 ### Evaluation Metrics
-- [The PHQ‐9: validity of a brief depression severity measure](https://onlinelibrary.wiley.com/doi/pdf/10.1046/j.1525-1497.2001.016009606.x)
+- [The PHQ‐9: Validity of a Brief Depression Severity Measure](https://onlinelibrary.wiley.com/doi/pdf/10.1046/j.1525-1497.2001.016009606.x)
 
 - [Measuring delusional ideation: the 21-item Peters et al. Delusions Inventory (PDI)](https://academic.oup.com/schizophreniabulletin/article-abstract/30/4/1005/1930847)
 
