@@ -16,8 +16,8 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 - ![2024.11](https://img.shields.io/badge/2024.11-blue) ![EMNLP](https://img.shields.io/badge/EMNLP-red) [Can AI Relate: Testing Large Language Model Response for Mental Health Support](https://aclanthology.org/2024.findings-emnlp.120/) [[code]](https://github.com/skgabriel/mh-eval)
 
 
-- ![2024.06](https://img.shields.io/badge/2024.06-blue) [An overview of diagnostics and therapeutics using large
-language models](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jts.23082?casa_token=GlVb_7RF7kIAAAAA%3AFvnWC12H0qtmmguh3EEl10RcoATL4W_LnUi4nAgdkXO-HC3lCSeljxLHPOmcJfyaxnRnPn3eXxBDdQ) 
+- ![2024.06](https://img.shields.io/badge/2024.06-blue) [An Overview of Diagnostics and Therapeutics Using Large
+Language Models](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jts.23082?casa_token=GlVb_7RF7kIAAAAA%3AFvnWC12H0qtmmguh3EEl10RcoATL4W_LnUi4nAgdkXO-HC3lCSeljxLHPOmcJfyaxnRnPn3eXxBDdQ) 
 
 
 
