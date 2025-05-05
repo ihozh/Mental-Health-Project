@@ -2,22 +2,10 @@
 
 A curated paper list of mental health research using large language models (LLMs) and multimodal large language models (MLLMs).
 
-## Methods for Suicide Risk Assessment and Detection
+## AI Safety for Human Mental Health
 
-
-
-### LLM as an Agent
-
-LLMs as agents with access to external tools like clinical databases, risk assessment frameworks, etc.
-
-
-- ![2025.04](https://img.shields.io/badge/2025.04-blue) [EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety](https://arxiv.org/pdf/2504.09689) [[code]](https://github.com/1akaman/EmoAgent)
-
-- ![2025.04](https://img.shields.io/badge/2025.04-blue)  ![NPJDM](https://img.shields.io/badge/NPJDM-Orange) [A scoping review of large language models for generative tasks in mental health care](https://www.nature.com/articles/s41746-025-01611-4.pdf)
-
-
-- ![2024.06](https://img.shields.io/badge/2024.06-blue) ![JTS](https://img.shields.io/badge/JTS-Orange) [An Overview of Diagnostics and Therapeutics Using Large
-Language Models](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jts.23082?casa_token=GlVb_7RF7kIAAAAA%3AFvnWC12H0qtmmguh3EEl10RcoATL4W_LnUi4nAgdkXO-HC3lCSeljxLHPOmcJfyaxnRnPn3eXxBDdQ)
+### Satety of Generation AI
+- ![2023.10](https://img.shields.io/badge/2023.10-blue) ![JCP](https://img.shields.io/badge/JCP-Orange) [Chatbots and mental health: Insights into the safety of generative AI](https://myscp.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcpy.1393)
 
 
 ### Ethical Evaluation
@@ -27,6 +15,28 @@ Evaluate LLMs for mental health applications ethically.
 
 
 - ![2021.11](https://img.shields.io/badge/2021.11-blue) ![EMNLP](https://img.shields.io/badge/EMNLP-red) [A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support](https://par.nsf.gov/servlets/purl/10293300)
+
+
+
+## Methods for Suicide Risk Assessment and Detection
+
+### Surveys
+- ![2025.04](https://img.shields.io/badge/2025.04-blue)  ![NPJDM](https://img.shields.io/badge/NPJDM-Orange) [A scoping review of large language models for generative tasks in mental health care](https://www.nature.com/articles/s41746-025-01611-4.pdf)
+
+
+- ![2024.06](https://img.shields.io/badge/2024.06-blue) ![JTS](https://img.shields.io/badge/JTS-Orange) [An Overview of Diagnostics and Therapeutics Using Large
+Language Models](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jts.23082?casa_token=GlVb_7RF7kIAAAAA%3AFvnWC12H0qtmmguh3EEl10RcoATL4W_LnUi4nAgdkXO-HC3lCSeljxLHPOmcJfyaxnRnPn3eXxBDdQ)
+
+
+### LLM as an Agent
+
+LLMs as agents with access to external tools like clinical databases, risk assessment frameworks, etc.
+
+
+- ![2025.04](https://img.shields.io/badge/2025.04-blue) [EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety](https://arxiv.org/pdf/2504.09689) [[code]](https://github.com/1akaman/EmoAgent)
+
+
+
 
 
 
