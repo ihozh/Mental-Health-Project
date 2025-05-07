@@ -13,6 +13,8 @@ Evaluate LLMs for mental health applications ethically.
 
 - ![2024.11](https://img.shields.io/badge/2024.11-blue) ![EMNLP](https://img.shields.io/badge/EMNLP-red) [Can AI Relate: Testing Large Language Model Response for Mental Health Support](https://aclanthology.org/2024.findings-emnlp.120/) [[code]](https://github.com/skgabriel/mh-eval)
 
+- ![2024.10](https://img.shields.io/badge/2024.10-blue) ![FPsy](https://img.shields.io/badge/FPsy-Orange) [Can AI replace psychotherapists? Exploring the future of mental health care](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1444382/full)
+
 
 - ![2021.11](https://img.shields.io/badge/2021.11-blue) ![EMNLP](https://img.shields.io/badge/EMNLP-red) [A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support](https://par.nsf.gov/servlets/purl/10293300)
 
