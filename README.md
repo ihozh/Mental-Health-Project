@@ -2,6 +2,8 @@
 
 A curated paper list of mental health research using large language models (LLMs) and multimodal large language models (MLLMs).
 
+## Explore
+
 ## AI Safety for Human Mental Health
 
 ### Satety of Generation AI
@@ -10,6 +12,8 @@ A curated paper list of mental health research using large language models (LLMs
 
 ### Ethical Evaluation
 Evaluate LLMs for mental health applications ethically.
+
+- ![2025.04](https://img.shields.io/badge/2025.04-blue) ![LDH](https://img.shields.io/badge/LDH-Orange) [Ethical Evaluation of Large Language Models for Mental Health Applications](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00255-3/fulltext)
 
 - ![2024.11](https://img.shields.io/badge/2024.11-blue) ![EMNLP](https://img.shields.io/badge/EMNLP-red) [Can AI Relate: Testing Large Language Model Response for Mental Health Support](https://aclanthology.org/2024.findings-emnlp.120/) [[code]](https://github.com/skgabriel/mh-eval)
 
