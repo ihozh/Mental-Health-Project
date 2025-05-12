@@ -27,6 +27,8 @@ Evaluate LLMs for mental health applications ethically.
 ## Methods for Suicide Risk Assessment and Detection
 
 ### Surveys
+- ![2025.05](https://img.shields.io/badge/2025.05-blue) ![JMIR](https://img.shields.io/badge/JMIR-Orange) [A survey of large language models for mental health applications](https://www.jmir.org/2025/1/e69284/)
+
 - ![2025.04](https://img.shields.io/badge/2025.04-blue)  ![NPJDM](https://img.shields.io/badge/NPJDM-Orange) [A scoping review of large language models for generative tasks in mental health care](https://www.nature.com/articles/s41746-025-01611-4.pdf)
 
 
@@ -38,8 +40,9 @@ Language Models](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jts.23082?casa_
 
 LLMs as agents with access to external tools like clinical databases, risk assessment frameworks, etc.
 
+- ![2025.05](https://img.shields.io/badge/2025.05-blue) ![Nature](https://img.shields.io/badge/Nature-Orange) [Leveraging large language models to assist philosophical counseling: prospective techniques, value, and challenges](https://www.nature.com/articles/s41599-025-04657-7)
 
-- ![2025.04](https://img.shields.io/badge/2025.04-blue) [EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety](https://arxiv.org/pdf/2504.09689) [[code]](https://github.com/1akaman/EmoAgent)
+- ![2025.04](https://img.shields.io/badge/2025.04-blue) ![arxiv](https://img.shields.io/badge/arxiv-red) [EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety](https://arxiv.org/pdf/2504.09689) [[code]](https://github.com/1akaman/EmoAgent)
 
 
 
