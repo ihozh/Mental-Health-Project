@@ -27,7 +27,7 @@ Evaluate LLMs for mental health applications ethically.
 ## Methods for Suicide Risk Assessment and Detection
 
 ### Surveys
-- ![2025.05](https://img.shields.io/badge/2025.05-blue) ![JMIR](https://img.shields.io/badge/JMIR-Orange) [A survey of large language models for mental health applications](https://www.jmir.org/2025/1/e69284/)
+- ![2025.05](https://img.shields.io/badge/2025.05-blue) ![JMIR](https://img.shields.io/badge/JMIR-orange) [A survey of large language models for mental health applications](https://www.jmir.org/2025/1/e69284/)
 
 - ![2025.04](https://img.shields.io/badge/2025.04-blue)  ![NPJDM](https://img.shields.io/badge/NPJDM-Orange) [A scoping review of large language models for generative tasks in mental health care](https://www.nature.com/articles/s41746-025-01611-4.pdf)
 
@@ -51,7 +51,7 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 
 
 ## Dataset
-- ![2019](https://img.shields.io/badge/2019-blue) ![CLPsych](https://img.shields.io/badge/CLPsych-Red) [CLPsych 2019 shared task: Predicting the degree of suicide risk in Reddit posts](https://aclanthology.org/W19-3003/)
+- ![2019](https://img.shields.io/badge/2019-blue) ![CLPsych](https://img.shields.io/badge/CLPsych-red) [CLPsych 2019 shared task: Predicting the degree of suicide risk in Reddit posts](https://aclanthology.org/W19-3003/)
 
 
 
