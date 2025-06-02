@@ -42,11 +42,11 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 
 - ![2025.05](https://img.shields.io/badge/2025.05-blue) ![Nature](https://img.shields.io/badge/Nature-Orange) [Leveraging large language models to assist philosophical counseling: prospective techniques, value, and challenges](https://www.nature.com/articles/s41599-025-04657-7)
 
-- ![2025.04](https://img.shields.io/badge/2025.04-blue) ![arxiv](https://img.shields.io/badge/arxiv-red) [EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety](https://arxiv.org/pdf/2504.09689) [[code]](https://github.com/1akaman/EmoAgent)
+- ![2025.04](https://img.shields.io/badge/2025.04-blue) ![arxiv](https://img.shields.io/badge/arxiv-yellow) [EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety](https://arxiv.org/pdf/2504.09689) [[code]](https://github.com/1akaman/EmoAgent)
 
 
 ### Suside Detection Methods
-- ![2025.05](https://img.shields.io/badge/2025.05-blue) ![arxiv](https://img.shields.io/badge/arxiv-red) [Evidence-Driven Marker Extraction for Social Media Suicide Risk Detection](https://arxiv.org/abs/2502.18823)
+- ![2025.05](https://img.shields.io/badge/2025.05-blue) ![arxiv](https://img.shields.io/badge/arxiv-yellow) [Evidence-Driven Marker Extraction for Social Media Suicide Risk Detection](https://arxiv.org/abs/2502.18823)
 
 
 
