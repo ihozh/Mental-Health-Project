@@ -7,17 +7,17 @@ A curated paper list of mental health research using large language models (LLMs
 ## AI Safety for Human Mental Health
 
 ### Satety of Generation AI
-- ![2023.10](https://img.shields.io/badge/2023.10-blue) ![JCP](https://img.shields.io/badge/JCP-Orange) [Chatbots and mental health: Insights into the safety of generative AI](https://myscp.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcpy.1393)
+- ![2023.10](https://img.shields.io/badge/2023.10-blue) ![JCP](https://img.shields.io/badge/JCP-green) [Chatbots and mental health: Insights into the safety of generative AI](https://myscp.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcpy.1393)
 
 
 ### Ethical Evaluation
 Evaluate LLMs for mental health applications ethically.
 
-- ![2025.04](https://img.shields.io/badge/2025.04-blue) ![LDH](https://img.shields.io/badge/LDH-Orange) [Ethical Evaluation of Large Language Models for Mental Health Applications](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00255-3/fulltext)
+- ![2025.04](https://img.shields.io/badge/2025.04-blue) ![LDH](https://img.shields.io/badge/LDH-green) [Ethical Evaluation of Large Language Models for Mental Health Applications](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00255-3/fulltext)
 
 - ![2024.11](https://img.shields.io/badge/2024.11-blue) ![EMNLP](https://img.shields.io/badge/EMNLP-red) [Can AI Relate: Testing Large Language Model Response for Mental Health Support](https://aclanthology.org/2024.findings-emnlp.120/) [[code]](https://github.com/skgabriel/mh-eval)
 
-- ![2024.10](https://img.shields.io/badge/2024.10-blue) ![FPsy](https://img.shields.io/badge/FPsy-Orange) [Can AI replace psychotherapists? Exploring the future of mental health care](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1444382/full)
+- ![2024.10](https://img.shields.io/badge/2024.10-blue) ![FPsy](https://img.shields.io/badge/FPsy-green) [Can AI replace psychotherapists? Exploring the future of mental health care](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1444382/full)
 
 
 - ![2021.11](https://img.shields.io/badge/2021.11-blue) ![EMNLP](https://img.shields.io/badge/EMNLP-red) [A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support](https://par.nsf.gov/servlets/purl/10293300)
@@ -27,12 +27,12 @@ Evaluate LLMs for mental health applications ethically.
 ## Methods for Suicide Risk Assessment and Detection
 
 ### Surveys
-- ![2025.05](https://img.shields.io/badge/2025.05-blue) ![JMIR](https://img.shields.io/badge/JMIR-orange) [A survey of large language models for mental health applications](https://www.jmir.org/2025/1/e69284/)
+- ![2025.05](https://img.shields.io/badge/2025.05-blue) ![JMIR](https://img.shields.io/badge/JMIR-green) [A survey of large language models for mental health applications](https://www.jmir.org/2025/1/e69284/)
 
-- ![2025.04](https://img.shields.io/badge/2025.04-blue)  ![NPJDM](https://img.shields.io/badge/NPJDM-Orange) [A scoping review of large language models for generative tasks in mental health care](https://www.nature.com/articles/s41746-025-01611-4.pdf)
+- ![2025.04](https://img.shields.io/badge/2025.04-blue)  ![NPJDM](https://img.shields.io/badge/NPJDM-green) [A scoping review of large language models for generative tasks in mental health care](https://www.nature.com/articles/s41746-025-01611-4.pdf)
 
 
-- ![2024.06](https://img.shields.io/badge/2024.06-blue) ![JTS](https://img.shields.io/badge/JTS-Orange) [An Overview of Diagnostics and Therapeutics Using Large
+- ![2024.06](https://img.shields.io/badge/2024.06-blue) ![JTS](https://img.shields.io/badge/JTS-green) [An Overview of Diagnostics and Therapeutics Using Large
 Language Models](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jts.23082?casa_token=GlVb_7RF7kIAAAAA%3AFvnWC12H0qtmmguh3EEl10RcoATL4W_LnUi4nAgdkXO-HC3lCSeljxLHPOmcJfyaxnRnPn3eXxBDdQ)
 
 
@@ -40,7 +40,7 @@ Language Models](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jts.23082?casa_
 
 LLMs as agents with access to external tools like clinical databases, risk assessment frameworks, etc.
 
-- ![2025.05](https://img.shields.io/badge/2025.05-blue) ![Nature](https://img.shields.io/badge/Nature-Orange) [Leveraging large language models to assist philosophical counseling: prospective techniques, value, and challenges](https://www.nature.com/articles/s41599-025-04657-7)
+- ![2025.05](https://img.shields.io/badge/2025.05-blue) ![Nature](https://img.shields.io/badge/Nature-green) [Leveraging large language models to assist philosophical counseling: prospective techniques, value, and challenges](https://www.nature.com/articles/s41599-025-04657-7)
 
 - ![2025.04](https://img.shields.io/badge/2025.04-blue) ![arxiv](https://img.shields.io/badge/arxiv-yellow) [EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety](https://arxiv.org/pdf/2504.09689) [[code]](https://github.com/1akaman/EmoAgent)
 
