@@ -22,6 +22,10 @@ Evaluate LLMs for mental health applications ethically.
 
 - ![2021.11](https://img.shields.io/badge/2021.11-blue) ![EMNLP](https://img.shields.io/badge/EMNLP-red) [A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support](https://par.nsf.gov/servlets/purl/10293300)
 
+- ![2017.04](https://img.shields.io/badge/2017.04-blue) ![EthNLP](https://img.shields.io/badge/EthNLP-red) [Ethical Research Protocols for Social Media Health Research](https://aclanthology.org/W17-1612/)
+
+
+
 
 
 ## Methods for Suicide Risk Assessment and Detection
