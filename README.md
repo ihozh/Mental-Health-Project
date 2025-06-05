@@ -43,12 +43,15 @@ Language Models](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jts.23082?casa_
 ### LLM as an Agent
 LLMs as agents with access to external tools like clinical databases, risk assessment frameworks, etc.
 
-
 - ![2025.05](https://img.shields.io/badge/2025.05-blue) ![Nature](https://img.shields.io/badge/Nature-green) [Leveraging large language models to assist philosophical counseling: prospective techniques, value, and challenges](https://www.nature.com/articles/s41599-025-04657-7)
 
 - ![2025.04](https://img.shields.io/badge/2025.04-blue) ![JMIR](https://img.shields.io/badge/JMIR-green) [Guideline-Incorporated Large Language Model-Driven Evaluation of Medical Records Using MedCheckLLM](https://formative.jmir.org/2025/1/e53335/)
 
 - ![2025.04](https://img.shields.io/badge/2025.04-blue) ![arxiv](https://img.shields.io/badge/arxiv-yellow) [EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety](https://arxiv.org/pdf/2504.09689) [[code]](https://github.com/1akaman/EmoAgent)
+
+- ![2025.04](https://img.shields.io/badge/2025.04-blue) ![CHI](https://img.shields.io/badge/CHI-red) [ASHABot: An LLM-Powered Chatbot to Support the Informational Needs of Community Health Workers](https://dl.acm.org/doi/full/10.1145/3706598.3713680)
+
+
 
 
 ### Suside Detection Methods
