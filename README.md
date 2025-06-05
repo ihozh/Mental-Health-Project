@@ -45,7 +45,6 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 
 - ![2025.05](https://img.shields.io/badge/2025.05-blue) ![Nature](https://img.shields.io/badge/Nature-green) [Leveraging large language models to assist philosophical counseling: prospective techniques, value, and challenges](https://www.nature.com/articles/s41599-025-04657-7)
 
-- ![2025.04](https://img.shields.io/badge/2025.04-blue) ![JMIR](https://img.shields.io/badge/JMIR-green) [Guideline-Incorporated Large Language Model-Driven Evaluation of Medical Records Using MedCheckLLM](https://formative.jmir.org/2025/1/e53335/)
 
 - ![2025.04](https://img.shields.io/badge/2025.04-blue) ![arxiv](https://img.shields.io/badge/arxiv-yellow) [EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety](https://arxiv.org/pdf/2504.09689) [[code]](https://github.com/1akaman/EmoAgent)
 
@@ -59,6 +58,8 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 
 
 ### LLM as an Agent for Therapy
+
+- ![2025.04](https://img.shields.io/badge/2025.04-blue) ![JMIR](https://img.shields.io/badge/JMIR-green) [Guideline-Incorporated Large Language Model-Driven Evaluation of Medical Records Using MedCheckLLM](https://formative.jmir.org/2025/1/e53335/)
 
 - ![2024.07](https://img.shields.io/badge/2024.07-blue) ![JMIR](https://img.shields.io/badge/JMIR-green) [Exploring the efficacy of large language models in summarizing mental health counseling sessions: benchmark study](https://mental.jmir.org/2024/1/e57306/)
 
