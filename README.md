@@ -51,7 +51,11 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 
 - ![2025.04](https://img.shields.io/badge/2025.04-blue) ![CHI](https://img.shields.io/badge/CHI-red) [ASHABot: An LLM-Powered Chatbot to Support the Informational Needs of Community Health Workers](https://dl.acm.org/doi/full/10.1145/3706598.3713680)
 
+- ![2024.05](https://img.shields.io/badge/2024.05-blue) ![WWW](https://img.shields.io/badge/WWW-red) [MentaLLaMA: interpretable mental health analysis on social media with large language models](https://dl.acm.org/doi/abs/10.1145/3589334.3648137)
+
 - ![2023.07](https://img.shields.io/badge/2023.07-blue) ![AAAI](https://img.shields.io/badge/AAAI-red) [Increasing impact of mobile health programs: Saheli for maternal and child care](https://ojs.aaai.org/index.php/AAAI/article/view/26849)
+
+
 
 
 
