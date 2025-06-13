@@ -78,6 +78,9 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 
 - ![2019.06](https://img.shields.io/badge/2019.06-blue) ![CLPsych](https://img.shields.io/badge/CLPsych-red) [CLPsych 2019 shared task: Predicting the degree of suicide risk in Reddit posts](https://aclanthology.org/W19-3003/)
 
+- ![2018.10](https://img.shields.io/badge/2018.10-blue) ![EMNLP](https://img.shields.io/badge/EMNLP-red) [Identifying Depression on Reddit: The Effect of Training Data](https://aclanthology.org/W18-5903/) [[code]](https://github.com/Inusette/Identifying-depression)
+
+
 
 
 
