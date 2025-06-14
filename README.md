@@ -76,6 +76,8 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 ## Dataset
 - ![2024.03](https://img.shields.io/badge/2024.03-blue) ![CLPsych](https://img.shields.io/badge/CLPsych-red) [Overview of the clpsych 2024 shared task: Leveraging large language models to identify evidence of suicidality risk in online posts](https://aclanthology.org/2024.clpsych-1.15/)
 
+- ![2021.05](https://img.shields.io/badge/2021.05-blue) ![CHI](https://img.shields.io/badge/CHI-red) [Sad: A stress annotated dataset for recognizing everyday stressors in sms-like conversational systems](https://dl.acm.org/doi/10.1145/3411763.34517992) [[code]](https://github.com/PervasiveWellbeingTech/Stress-Annotated-Dataset-SAD)
+
 
 - ![2019.11](https://img.shields.io/badge/2019.11-blue) ![LOUHI](https://img.shields.io/badge/LOUHI-red) [Dreaddit: A Reddit Dataset for Stress Analysis in Social Media](https://aclanthology.org/2024.clpsych-1.15/) [[code]](http://www.cs.columbia.edu/~eturcan/data)
 
