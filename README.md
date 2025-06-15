@@ -87,7 +87,15 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 - ![2018.10](https://img.shields.io/badge/2018.10-blue) ![EMNLP](https://img.shields.io/badge/EMNLP-red) [Identifying Depression on Reddit: The Effect of Training Data](https://aclanthology.org/W18-5903/) [[code]](https://github.com/Inusette/Identifying-depression)
 
 
+- ![2018.06](https://img.shields.io/badge/2018.06-blue) ![CLPsych](https://img.shields.io/badge/CLPsych-red) [Expert, crowdsourced, and machine assessment of suicide risk via online postings](https://aclanthology.org/W18-5903/)
+
+- ![2016.10](https://img.shields.io/badge/2016.10-blue) ![SITB](https://img.shields.io/badge/SITB-green) [College students' responses to suicidal content on social networking sites: An examination using a simulated facebook newsfeed](https://onlinelibrary.wiley.com/doi/pdf/10.1111/sltb.12241)
+
 - ![2008.06](https://img.shields.io/badge/2008.06-blue) ![AAAI](https://img.shields.io/badge/AAAI-red) [The psychology of word use in depression forums in English and in Spanish: Testing two text analytic approaches](https://ojs.aaai.org/index.php/ICWSM/article/view/18623)
+
+
+
+
 
 
 
