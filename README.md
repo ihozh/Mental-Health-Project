@@ -117,6 +117,10 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 
 - [Motivational Interviewing: Moving From Why to How with Autonomy Support (MITI)](https://link.springer.com/content/pdf/10.1186/1479-5868-9-19.pdf)
 
+- [Columbia-suicide severity rating scale (C-SSRS)](https://doc.sc.gov/sites/doc/files/Documents/policy/BH-19-11AttachmentC.pdf)
+
+
+
 <!-- ### As a Decision Maker/Explainer
 
 LLMs directly making assessments or providing explanations for suicide risk factors.
