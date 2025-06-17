@@ -106,9 +106,6 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 
 
 
-
-
-
 ## Evaluation Metrics
 - [The PHQ‐9: Validity of a Brief Depression Severity Measure](https://onlinelibrary.wiley.com/doi/pdf/10.1046/j.1525-1497.2001.016009606.x)
 
@@ -124,6 +121,9 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 
 - [The DSM-5: Classification and criteria changes](https://onlinelibrary.wiley.com/doi/full/10.1002/wps.20050)
 
+- [The Beck Depression Inventory (BDI)](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/487993)
+
+- [Depressive disorder annotation (DDA)](https://aclanthology.org/W15-1211.pdf)
 
 
 <!-- ### As a Decision Maker/Explainer
