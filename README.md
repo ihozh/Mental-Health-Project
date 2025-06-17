@@ -120,6 +120,8 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 
 - [Columbia-suicide severity rating scale (C-SSRS)](https://doc.sc.gov/sites/doc/files/Documents/policy/BH-19-11AttachmentC.pdf)
 
+- [The DSM-5: Classification and criteria changes](https://onlinelibrary.wiley.com/doi/full/10.1002/wps.20050)
+
 
 
 <!-- ### As a Decision Maker/Explainer
