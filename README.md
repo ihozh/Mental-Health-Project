@@ -45,6 +45,7 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 
 - ![2025.05](https://img.shields.io/badge/2025.05-blue) ![Nature](https://img.shields.io/badge/Nature-green) [Leveraging large language models to assist philosophical counseling: prospective techniques, value, and challenges](https://www.nature.com/articles/s41599-025-04657-7)
 
+- ![2024.05](https://img.shields.io/badge/2024.05-blue) ![IMWUT](https://img.shields.io/badge/IMWUT-red) [Talk2care: An llm-based voice assistant for communication between healthcare providers and older adults](https://dl.acm.org/doi/abs/10.1145/3659625)
 
 - ![2025.04](https://img.shields.io/badge/2025.04-blue) ![arxiv](https://img.shields.io/badge/arxiv-yellow) [EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety](https://arxiv.org/pdf/2504.09689) [[code]](https://github.com/1akaman/EmoAgent)
 
