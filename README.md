@@ -26,6 +26,11 @@ Evaluate LLMs for mental health applications ethically.
 
 
 
+## Emotion Detection
+
+- ![2024.08](https://img.shields.io/badge/2024.08-blue) ![KDD](https://img.shields.io/badge/KDD-red) [Emollms: A series of emotional large language models and annotation tools for comprehensive affective analysis](https://dl.acm.org/doi/abs/10.1145/3989613.4084128)
+
+
 
 
 ## Methods for Suicide Risk Assessment and Detection
