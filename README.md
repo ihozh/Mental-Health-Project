@@ -40,6 +40,7 @@ Evaluate LLMs for mental health applications ethically.
 
 - ![2025.04](https://img.shields.io/badge/2025.04-blue)  ![NPJDM](https://img.shields.io/badge/NPJDM-green) [A scoping review of large language models for generative tasks in mental health care](https://www.nature.com/articles/s41746-025-01611-4.pdf)
 
+- ![2025.02](https://img.shields.io/badge/2025.02-blue) ![TMIS](https://img.shields.io/badge/TMIS-green) [Improving workplace well-being in modern organizations: A review of large language model-based mental health chatbots](https://dl.acm.org/doi/full/10.1145/3701041)
 
 - ![2024.06](https://img.shields.io/badge/2024.06-blue) ![JTS](https://img.shields.io/badge/JTS-green) [An Overview of Diagnostics and Therapeutics Using Large
 Language Models](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jts.23082?casa_token=GlVb_7RF7kIAAAAA%3AFvnWC12H0qtmmguh3EEl10RcoATL4W_LnUi4nAgdkXO-HC3lCSeljxLHPOmcJfyaxnRnPn3eXxBDdQ)
