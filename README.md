@@ -26,10 +26,14 @@ Evaluate LLMs for mental health applications ethically.
 
 
 
-## Emotion Detection
+## Emotion
 
+### Emotion Identification
 - ![2024.08](https://img.shields.io/badge/2024.08-blue) ![KDD](https://img.shields.io/badge/KDD-red) [Emollms: A series of emotional large language models and annotation tools for comprehensive affective analysis](https://dl.acm.org/doi/abs/10.1145/3637528.3671552)
 
+### Emotion Enhancement
+
+- ![2024.06](https://img.shields.io/badge/2024.06-blue) ![ICMR](https://img.shields.io/badge/ICMR-red) [Speak from heart: an emotion-guided LLM-based multimodal method for emotional dialogue generation](https://dl.acm.org/doi/abs/10.1145/3652583.3658104)
 
 
 
