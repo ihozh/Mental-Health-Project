@@ -61,6 +61,8 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 
 - ![2025.04](https://img.shields.io/badge/2025.04-blue) ![CHI](https://img.shields.io/badge/CHI-red) [ASHABot: An LLM-Powered Chatbot to Support the Informational Needs of Community Health Workers](https://dl.acm.org/doi/full/10.1145/3706598.3713680)
 
+- ![2024.05](https://img.shields.io/badge/2024.05-blue) ![CHI](https://img.shields.io/badge/CHI-red) [Facilitating self-guided mental health interventions through human-language model interaction: A case study of cognitive restructuring](https://dl.acm.org/doi/full/10.1145/3613904.3642761)
+
 - ![2024.05](https://img.shields.io/badge/2024.05-blue) ![WWW](https://img.shields.io/badge/WWW-red) [MentaLLaMA: interpretable mental health analysis on social media with large language models](https://dl.acm.org/doi/abs/10.1145/3589334.3648137) [[code]](https://github.com/SteveKGYang/MentalLLaMA)
 
 - ![2024.03](https://img.shields.io/badge/2024.03-blue) ![IMWUT](https://img.shields.io/badge/IMWUT-red) [Mental-LLM: Leveraging large language models for mental health prediction via online text data](https://dl.acm.org/doi/abs/10.1145/3643540)
