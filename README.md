@@ -40,7 +40,10 @@ Evaluate LLMs for mental health applications ethically.
 ## Methods for Suicide Risk Assessment and Detection
 
 ### Surveys
+
 - ![2025.05](https://img.shields.io/badge/2025.05-blue) ![JMIR](https://img.shields.io/badge/JMIR-green) [A survey of large language models for mental health applications](https://www.jmir.org/2025/1/e69284/)
+
+- ![2025.04](https://img.shields.io/badge/2025.04-blue) ![CBM](https://img.shields.io/badge/CBM-green) [Utilizing natural language processing for precision prevention of mental health disorders among youth: A systematic review](https://www.sciencedirect.com/science/article/pii/S0010482525002094?casa_token=fQ-18GWSmGUAAAAA:XC0_ctnslT3SYb_C8m59crS2mOQLtFyTnE9IszaK4YlNcC8MCN-Y2maUQZfnAIgg7jnNd2yy)
 
 - ![2025.04](https://img.shields.io/badge/2025.04-blue)  ![NPJDM](https://img.shields.io/badge/NPJDM-green) [A scoping review of large language models for generative tasks in mental health care](https://www.nature.com/articles/s41746-025-01611-4.pdf)
 
