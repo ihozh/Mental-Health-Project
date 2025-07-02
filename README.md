@@ -96,6 +96,8 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 
 - ![2023.05](https://img.shields.io/badge/2023.05-blue) ![arxiv](https://img.shields.io/badge/arxiv-yellow) [Multiwd: Multiple wellness dimensions in social media posts](https://www.techrxiv.org/doi/full/10.36227/techrxiv.22816586.v1) [[code]](https://github.com/drmuskangarg/MultiWD)
 
+- ![2022.07](https://img.shields.io/badge/2022.07-blue) ![ACL](https://img.shields.io/badge/ACL-red) [Scan: suicide attempt and ideation events dataset](https://pmc.ncbi.nlm.nih.gov/articles/PMC9958515/)
+
 - ![2022.04](https://img.shields.io/badge/2022.04-blue) ![WWW](https://img.shields.io/badge/WWW-red) [Early identification of depression severity levels on reddit using ordinal classification](https://dl.acm.org/doi/abs/10.1145/3485447.3512128)
 
 - ![2021.05](https://img.shields.io/badge/2021.05-blue) ![CHI](https://img.shields.io/badge/CHI-red) [Sad: A stress annotated dataset for recognizing everyday stressors in sms-like conversational systems](https://dl.acm.org/doi/10.1145/3411763.34517992) [[code]](https://github.com/PervasiveWellbeingTech/Stress-Annotated-Dataset-SAD)
