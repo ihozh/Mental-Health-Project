@@ -32,8 +32,12 @@ Evaluate LLMs for mental health applications ethically.
 - ![2024.08](https://img.shields.io/badge/2024.08-blue) ![KDD](https://img.shields.io/badge/KDD-red) [Emollms: A series of emotional large language models and annotation tools for comprehensive affective analysis](https://dl.acm.org/doi/abs/10.1145/3637528.3671552)
 
 ### Emotion Enhancement
-
 - ![2024.06](https://img.shields.io/badge/2024.06-blue) ![ICMR](https://img.shields.io/badge/ICMR-red) [Speak from heart: an emotion-guided LLM-based multimodal method for emotional dialogue generation](https://dl.acm.org/doi/abs/10.1145/3652583.3658104)
+
+### Sentient
+- ![2025.05](https://img.shields.io/badge/2025.05-blue) ![arxiv](https://img.shields.io/badge/arxiv-yellow) [Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in Large Language Models](https://arxiv.org/abs/2505.02847)
+
+
 
 
 
@@ -64,7 +68,6 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 
 - ![2025.04](https://img.shields.io/badge/2025.04-blue) ![CHI](https://img.shields.io/badge/CHI-red) [ASHABot: An LLM-Powered Chatbot to Support the Informational Needs of Community Health Workers](https://dl.acm.org/doi/full/10.1145/3706598.3713680)
 
-- ![2024.05](https://img.shields.io/badge/2024.05-blue) ![CHI](https://img.shields.io/badge/CHI-red) [Facilitating self-guided mental health interventions through human-language model interaction: A case study of cognitive restructuring](https://dl.acm.org/doi/full/10.1145/3613904.3642761)
 
 - ![2024.05](https://img.shields.io/badge/2024.05-blue) ![WWW](https://img.shields.io/badge/WWW-red) [MentaLLaMA: interpretable mental health analysis on social media with large language models](https://dl.acm.org/doi/abs/10.1145/3589334.3648137) [[code]](https://github.com/SteveKGYang/MentalLLaMA)
 
@@ -89,6 +92,11 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 
 
 - ![2021.09](https://img.shields.io/badge/2021.09-blue) ![ICANN](https://img.shields.io/badge/ICANN-red) [Deep learning for suicide and depression identification with unsupervised label correction](https://link.springer.com/chapter/10.1007/978-3-030-86383-8_35) [[code]](https://github.com/ayaanzhaque/SDCNL)
+
+
+## Human Machine Interaction
+- ![2024.05](https://img.shields.io/badge/2024.05-blue) ![CHI](https://img.shields.io/badge/CHI-red) [Facilitating self-guided mental health interventions through human-language model interaction: A case study of cognitive restructuring](https://dl.acm.org/doi/full/10.1145/3613904.3642761)
+
 
 
 ## Dataset
