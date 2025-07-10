@@ -35,8 +35,7 @@ Evaluate LLMs for mental health applications ethically.
 - ![2024.06](https://img.shields.io/badge/2024.06-blue) ![ICMR](https://img.shields.io/badge/ICMR-red) [Speak from heart: an emotion-guided LLM-based multimodal method for emotional dialogue generation](https://dl.acm.org/doi/abs/10.1145/3652583.3658104)
 
 ### Sentient
-- ![2025.05](https://img.shields.io/badge/2025.05-blue) ![arxiv](https://img.shields.io/badge/arxiv-yellow) [Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in Large Language Models](https://arxiv.org/abs/2505.02847)
-
+- ![2025.05](https://img.shields.io/badge/2025.05-blue) ![arxiv](https://img.shields.io/badge/arxiv-yellow) [Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in Large Language Models](https://arxiv.org/abs/2505.02847)[[code]](https://github.com/Tencent/DigitalHuman/tree/main/SAGE)
 
 
 
