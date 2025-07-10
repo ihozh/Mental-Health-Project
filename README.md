@@ -39,7 +39,9 @@ Evaluate LLMs for mental health applications ethically.
 
 - ![2021.08](https://img.shields.io/badge/2021.08-blue) ![ACL](https://img.shields.io/badge/ACL-red) [Towards Emotional Support Dialog Systems](https://aclanthology.org/2021.acl-long.269/)
 
+- ![2014.11](https://img.shields.io/badge/2014.11-blue) ![JUCS](https://img.shields.io/badge/JUCS-red) [EmotionsOnto: an Ontology for Developing Affective Applications](https://repositori.udl.cat/server/api/core/bitstreams/e9379013-f44f-46bc-8557-fb743cc7f778/content)
 
+- ![2002.01](https://img.shields.io/badge/2002.01-blue) ![EKAW](https://img.shields.io/badge/EKAW-red) [Sweetening ontologies with DOLCE](https://link.springer.com/chapter/10.1007/3-540-45810-7_18)
 
 
 ## Methods for Suicide Risk Assessment and Detection
