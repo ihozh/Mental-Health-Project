@@ -37,6 +37,8 @@ Evaluate LLMs for mental health applications ethically.
 ### Sentient
 - ![2025.05](https://img.shields.io/badge/2025.05-blue) ![arxiv](https://img.shields.io/badge/arxiv-yellow) [Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in Large Language Models](https://arxiv.org/abs/2505.02847)[[code]](https://github.com/Tencent/DigitalHuman/tree/main/SAGE)
 
+- ![2021.08](https://img.shields.io/badge/2021.08-blue) ![ACL](https://img.shields.io/badge/ACL-red) [Towards Emotional Support Dialog Systems](https://aclanthology.org/2021.acl-long.269/)
+
 
 
 
