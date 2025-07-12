@@ -39,6 +39,8 @@ Evaluate LLMs for mental health applications ethically.
 
 - ![2024.12](https://img.shields.io/badge/2024.12-blue) ![HCI](https://img.shields.io/badge/HCI-red) [SenticNet 8: Fusing emotion AI and commonsense AI for interpretable, trustworthy, and explainable affective computing](https://link.springer.com/chapter/10.1007/978-3-031-76827-9_11)
 
+- ![2023.03](https://img.shields.io/badge/2023.03-blue) ![IF](https://img.shields.io/badge/IF-green) [Multimodal sentiment analysis: A systematic review of history, datasets, multimodal fusion methods, applications, challenges and future directions](https://www.sciencedirect.com/science/article/pii/S1566253522001634)
+
 - ![2021.08](https://img.shields.io/badge/2021.08-blue) ![ACL](https://img.shields.io/badge/ACL-red) [Towards Emotional Support Dialog Systems](https://aclanthology.org/2021.acl-long.269/)
 
 - ![2014.11](https://img.shields.io/badge/2014.11-blue) ![JUCS](https://img.shields.io/badge/JUCS-red) [EmotionsOnto: an Ontology for Developing Affective Applications](https://repositori.udl.cat/server/api/core/bitstreams/e9379013-f44f-46bc-8557-fb743cc7f778/content)
