@@ -48,7 +48,7 @@ Evaluate LLMs for mental health applications ethically.
 - ![2002.01](https://img.shields.io/badge/2002.01-blue) ![EKAW](https://img.shields.io/badge/EKAW-red) [Sweetening ontologies with DOLCE](https://link.springer.com/chapter/10.1007/3-540-45810-7_18)
 
 
-## Methods for Suicide Risk Assessment and Detection
+## Suicide Risk Assessment and Detection
 
 ### Surveys
 
@@ -99,6 +99,10 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 
 
 - ![2021.09](https://img.shields.io/badge/2021.09-blue) ![ICANN](https://img.shields.io/badge/ICANN-red) [Deep learning for suicide and depression identification with unsupervised label correction](https://link.springer.com/chapter/10.1007/978-3-030-86383-8_35) [[code]](https://github.com/ayaanzhaque/SDCNL)
+
+
+## Alzheimer
+- ![2025.12](https://img.shields.io/badge/2025.12-blue) ![TCH](https://img.shields.io/badge/TCH-green) [Ai vs. humans for online support: Comparing the language of responses from llms and online communities of alzheimer’s disease](https://dl.acm.org/doi/abs/10.1145/3709366)
 
 
 ## Human Machine Interaction
