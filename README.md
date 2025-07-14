@@ -48,6 +48,9 @@ Evaluate LLMs for mental health applications ethically.
 - ![2002.01](https://img.shields.io/badge/2002.01-blue) ![EKAW](https://img.shields.io/badge/EKAW-red) [Sweetening ontologies with DOLCE](https://link.springer.com/chapter/10.1007/3-540-45810-7_18)
 
 
+## Depression
+- ![2023.07](https://img.shields.io/badge/2023.07-blue) ![ACL](https://img.shields.io/badge/ACL-red) [Cognitive Reframing of Negative Thoughts through Human-Language Model Interaction](https://aclanthology.org/2023.acl-long.555/)
+
 ## Suicide Risk Assessment and Detection
 
 ### Surveys
