@@ -70,6 +70,7 @@ Language Models](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jts.23082?casa_
 ### LLM as an Agent for Mental Health
 LLMs as agents with access to external tools like clinical databases, risk assessment frameworks, etc.
 
+- ![2025.08](https://img.shields.io/badge/2025.08-blue) ![FPsy](https://img.shields.io/badge/FPsy-green) [Development and evaluation of LLM-based suicide intervention chatbot](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1634714/full)
 
 - ![2025.05](https://img.shields.io/badge/2025.05-blue) ![Nature](https://img.shields.io/badge/Nature-green) [Leveraging large language models to assist philosophical counseling: prospective techniques, value, and challenges](https://www.nature.com/articles/s41599-025-04657-7)
 
