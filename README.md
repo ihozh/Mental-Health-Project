@@ -116,6 +116,8 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 ## Human Machine Interaction
 - ![2024.05](https://img.shields.io/badge/2024.05-blue) ![CHI](https://img.shields.io/badge/CHI-red) [Facilitating self-guided mental health interventions through human-language model interaction: A case study of cognitive restructuring](https://dl.acm.org/doi/full/10.1145/3613904.3642761)
 
+- ![2023.10](https://img.shields.io/badge/2023.10-blue) ![NatureMI](https://img.shields.io/badge/NatureMI-green) [Influencing human--AI interaction by priming beliefs about AI can increase perceived trustworthiness, empathy and effectiveness](https://www.nature.com/articles/s42256-023-00720-7)
+
 
 
 ## Dataset
