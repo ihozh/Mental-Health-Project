@@ -54,6 +54,7 @@ Evaluate LLMs for mental health applications ethically.
 ## Suicide Risk Assessment and Detection
 
 ### Surveys
+- ![2025.06](https://img.shields.io/badge/2025.06-blue) ![JMIR](https://img.shields.io/badge/JMIR-green) [Applications of large language models in the field of suicide prevention: Scoping review](https://www.jmir.org/2025/1/e63126/)
 
 - ![2025.05](https://img.shields.io/badge/2025.05-blue) ![JMIR](https://img.shields.io/badge/JMIR-green) [A survey of large language models for mental health applications](https://www.jmir.org/2025/1/e69284/)
 
