@@ -62,6 +62,8 @@ Evaluate LLMs for mental health applications ethically.
 
 - ![2025.04](https://img.shields.io/badge/2025.04-blue)  ![NPJDM](https://img.shields.io/badge/NPJDM-green) [A scoping review of large language models for generative tasks in mental health care](https://www.nature.com/articles/s41746-025-01611-4.pdf)
 
+- ![2025.04](https://img.shields.io/badge/2025.04-blue) ![CHI](https://img.shields.io/badge/CHI-red) [Understanding the LLM-ification of CHI: Unpacking the Impact of LLMs at CHI through a Systematic Literature Review](https://dl.acm.org/doi/full/10.1145/3706598.3713726)
+
 - ![2025.02](https://img.shields.io/badge/2025.02-blue) ![TMIS](https://img.shields.io/badge/TMIS-green) [Improving workplace well-being in modern organizations: A review of large language model-based mental health chatbots](https://dl.acm.org/doi/full/10.1145/3701041)
 
 - ![2024.06](https://img.shields.io/badge/2024.06-blue) ![JTS](https://img.shields.io/badge/JTS-green) [An Overview of Diagnostics and Therapeutics Using Large Language Models](https://onlinelibrary.wiley.com/doi/abs/10.1002/jts.23082)
@@ -99,7 +101,6 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 
 ### Suside Detection Methods
 - ![2025.05](https://img.shields.io/badge/2025.05-blue) ![arxiv](https://img.shields.io/badge/arxiv-yellow) [Evidence-Driven Marker Extraction for Social Media Suicide Risk Detection](https://arxiv.org/abs/2502.18823)
-
 
 - ![2024.10](https://img.shields.io/badge/2024.10-blue) ![Lancet](https://img.shields.io/badge/Lancet-red) [Preventing suicide: a public health approach to a global problem](https://www.thelancet.com/pdfs/journals/lanpub/PIIS2468-2667(24)00149-X.pdf)
 
