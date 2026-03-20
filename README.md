@@ -99,8 +99,10 @@ LLMs as agents with access to external tools like clinical databases, risk asses
 
 
 
-### Suside Detection Methods
+### Suicide Detection Methods
 - ![2025.05](https://img.shields.io/badge/2025.05-blue) ![arxiv](https://img.shields.io/badge/arxiv-yellow) [Evidence-Driven Marker Extraction for Social Media Suicide Risk Detection](https://arxiv.org/abs/2502.18823)
+
+- ![2025.04](https://img.shields.io/badge/2025.04-blue) ![WWW](https://img.shields.io/badge/WWW-red) [DiGrI: Distorted Greedy Approach for Human-Assisted Online Suicide Ideation Detection](https://dl.acm.org/doi/abs/10.1145/3696410.3714529)
 
 - ![2024.10](https://img.shields.io/badge/2024.10-blue) ![Lancet](https://img.shields.io/badge/Lancet-red) [Preventing suicide: a public health approach to a global problem](https://www.thelancet.com/pdfs/journals/lanpub/PIIS2468-2667(24)00149-X.pdf)
 
