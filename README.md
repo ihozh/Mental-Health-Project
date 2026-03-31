@@ -49,6 +49,9 @@ Evaluate LLMs for mental health applications ethically.
 
 
 ## Depression
+- ![2025.01](https://img.shields.io/badge/2025.01-blue) ![DSS](https://img.shields.io/badge/DSS-green) [DECEN: A deep learning model enhanced by depressive emotions for depression detection from social media content](https://www.sciencedirect.com/science/article/pii/S0167923625000223)
+
+
 - ![2023.07](https://img.shields.io/badge/2023.07-blue) ![ACL](https://img.shields.io/badge/ACL-red) [Cognitive Reframing of Negative Thoughts through Human-Language Model Interaction](https://aclanthology.org/2023.acl-long.555/)
 
 ## Suicide Risk Assessment and Detection
